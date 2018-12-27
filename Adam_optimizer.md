@@ -9,5 +9,5 @@ Adam combines the advantages of two other extentions of stochastic gradient desc
 
 
 More papers and blogs for optimization:
-[An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
-[Optimization for deep networks](http://www.cs.cmu.edu/~imisra/data/Optimization_2015_11_11.pdf)(Slides..easier to read:) )
+- [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
+- [Optimization for deep networks](http://www.cs.cmu.edu/~imisra/data/Optimization_2015_11_11.pdf)(Slides..easier to read:) )
